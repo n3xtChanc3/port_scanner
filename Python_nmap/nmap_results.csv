@@ -1,0 +1,4 @@
+Port,State,Service
+22,open,ssh
+25,filtered,smtp
+80,open,http
